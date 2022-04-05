@@ -1,1 +1,1 @@
-# rsschool-sv
+# rssc
