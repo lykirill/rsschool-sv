@@ -1,1 +1,1 @@
-# https://lykirill.github/rsschool-cv/cv
+# https://lykirill.github.io/rsschool-cv/cv
